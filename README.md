@@ -6,7 +6,7 @@
   Back-end com Node.js
 </h1>
 
-<p align="center">Projeto de API em Node.js para manipulação de repositórios.</p>
+<p align="center">Projeto de API em Node.js para manipulação de repositórios</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/desafio-nodejs">
@@ -16,7 +16,7 @@
 
 ## Sobre:
 
-API desenvolvida em Node.js que realiza o cadastro e manutenção de repositórios. A estrutura de cada um desses repositórios é composta por seu `id`, `title`, `url`, `techs` e `likes`. 
+API desenvolvida em Node.js que realiza o cadastro e manutenção de repositórios. A estrutura de cada um desses repositórios é composta por seu `id`, `title`, `url`, `techs` e `likes`.
 
 ## Tecnologias utilizadas:
 
@@ -61,8 +61,8 @@ yarn dev
 </p>
 
 <blockquote align="center">
-  Este projeto foi desenvolvimento durante o 
+  Este projeto foi desenvolvido durante o 
     <a href="https://rocketseat.com.br/gostack">
-      Bootcamp da RocketSeat
+      Bootcamp da Rocketseat
     </a>
 </blockquote>
